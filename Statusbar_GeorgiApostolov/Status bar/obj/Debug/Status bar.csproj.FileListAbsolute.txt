@@ -1,0 +1,29 @@
+D:\Programming\C#\Forms\Status bar\Status bar\Status bar\bin\Debug\Status bar.exe.config
+D:\Programming\C#\Forms\Status bar\Status bar\Status bar\bin\Debug\Status bar.exe
+D:\Programming\C#\Forms\Status bar\Status bar\Status bar\bin\Debug\Status bar.pdb
+D:\Programming\C#\Forms\Status bar\Status bar\Status bar\obj\Debug\Status bar.csprojAssemblyReference.cache
+D:\Programming\C#\Forms\Status bar\Status bar\Status bar\obj\Debug\Status_bar.Form1.resources
+D:\Programming\C#\Forms\Status bar\Status bar\Status bar\obj\Debug\Status_bar.Properties.Resources.resources
+D:\Programming\C#\Forms\Status bar\Status bar\Status bar\obj\Debug\Status bar.csproj.GenerateResource.cache
+D:\Programming\C#\Forms\Status bar\Status bar\Status bar\obj\Debug\Status bar.exe
+D:\Programming\C#\Forms\Status bar\Status bar\Status bar\obj\Debug\Status bar.pdb
+C:\Users\georgi apostolov\Desktop\Status bar\Status bar\bin\Debug\Status bar.exe.config
+C:\Users\georgi apostolov\Desktop\Status bar\Status bar\bin\Debug\Status bar.exe
+C:\Users\georgi apostolov\Desktop\Status bar\Status bar\bin\Debug\Status bar.pdb
+C:\Users\georgi apostolov\Desktop\Status bar\Status bar\obj\Debug\Status bar.csprojAssemblyReference.cache
+C:\Users\georgi apostolov\Desktop\Status bar\Status bar\obj\Debug\Status_bar.Form1.resources
+C:\Users\georgi apostolov\Desktop\Status bar\Status bar\obj\Debug\Status_bar.Properties.Resources.resources
+C:\Users\georgi apostolov\Desktop\Status bar\Status bar\obj\Debug\Status bar.csproj.GenerateResource.cache
+C:\Users\georgi apostolov\Desktop\Status bar\Status bar\obj\Debug\Status bar.csproj.CoreCompileInputs.cache
+C:\Users\georgi apostolov\Desktop\Status bar\Status bar\obj\Debug\Status bar.exe
+C:\Users\georgi apostolov\Desktop\Status bar\Status bar\obj\Debug\Status bar.pdb
+D:\Programing\PMPG\Statusbar_GeorgiApostolov\Status bar\bin\Debug\Status bar.exe.config
+D:\Programing\PMPG\Statusbar_GeorgiApostolov\Status bar\bin\Debug\Status bar.exe
+D:\Programing\PMPG\Statusbar_GeorgiApostolov\Status bar\bin\Debug\Status bar.pdb
+D:\Programing\PMPG\Statusbar_GeorgiApostolov\Status bar\obj\Debug\Status bar.csprojAssemblyReference.cache
+D:\Programing\PMPG\Statusbar_GeorgiApostolov\Status bar\obj\Debug\Status_bar.Form1.resources
+D:\Programing\PMPG\Statusbar_GeorgiApostolov\Status bar\obj\Debug\Status_bar.Properties.Resources.resources
+D:\Programing\PMPG\Statusbar_GeorgiApostolov\Status bar\obj\Debug\Status bar.csproj.GenerateResource.cache
+D:\Programing\PMPG\Statusbar_GeorgiApostolov\Status bar\obj\Debug\Status bar.csproj.CoreCompileInputs.cache
+D:\Programing\PMPG\Statusbar_GeorgiApostolov\Status bar\obj\Debug\Status bar.exe
+D:\Programing\PMPG\Statusbar_GeorgiApostolov\Status bar\obj\Debug\Status bar.pdb

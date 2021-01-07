@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProstoChislo_GeorgiApostolov/1.0.0": {
+        "runtime": {
+          "ProstoChislo_GeorgiApostolov.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProstoChislo_GeorgiApostolov/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

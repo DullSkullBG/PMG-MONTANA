@@ -1,0 +1,10 @@
+D:\programing\PMPG\GeorgiApostolovConvert\GeorgiApostolovConvert\bin\Debug\GeorgiApostolovConvert.exe.config
+D:\programing\PMPG\GeorgiApostolovConvert\GeorgiApostolovConvert\bin\Debug\GeorgiApostolovConvert.exe
+D:\programing\PMPG\GeorgiApostolovConvert\GeorgiApostolovConvert\bin\Debug\GeorgiApostolovConvert.pdb
+D:\programing\PMPG\GeorgiApostolovConvert\GeorgiApostolovConvert\obj\Debug\GeorgiApostolovConvert.csprojAssemblyReference.cache
+D:\programing\PMPG\GeorgiApostolovConvert\GeorgiApostolovConvert\obj\Debug\GeorgiApostolovConvert.Form1.resources
+D:\programing\PMPG\GeorgiApostolovConvert\GeorgiApostolovConvert\obj\Debug\GeorgiApostolovConvert.Properties.Resources.resources
+D:\programing\PMPG\GeorgiApostolovConvert\GeorgiApostolovConvert\obj\Debug\GeorgiApostolovConvert.csproj.GenerateResource.cache
+D:\programing\PMPG\GeorgiApostolovConvert\GeorgiApostolovConvert\obj\Debug\GeorgiApostolovConvert.csproj.CoreCompileInputs.cache
+D:\programing\PMPG\GeorgiApostolovConvert\GeorgiApostolovConvert\obj\Debug\GeorgiApostolovConvert.exe
+D:\programing\PMPG\GeorgiApostolovConvert\GeorgiApostolovConvert\obj\Debug\GeorgiApostolovConvert.pdb

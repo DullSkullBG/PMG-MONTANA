@@ -1,0 +1,13 @@
+D:\Programing\PMPG\ГеоргиАпостолов\ГеоргиАпостолов\bin\Debug\netcoreapp3.1\ГеоргиАпостолов.exe
+D:\Programing\PMPG\ГеоргиАпостолов\ГеоргиАпостолов\bin\Debug\netcoreapp3.1\ГеоргиАпостолов.deps.json
+D:\Programing\PMPG\ГеоргиАпостолов\ГеоргиАпостолов\bin\Debug\netcoreapp3.1\ГеоргиАпостолов.runtimeconfig.json
+D:\Programing\PMPG\ГеоргиАпостолов\ГеоргиАпостолов\bin\Debug\netcoreapp3.1\ГеоргиАпостолов.runtimeconfig.dev.json
+D:\Programing\PMPG\ГеоргиАпостолов\ГеоргиАпостолов\bin\Debug\netcoreapp3.1\ГеоргиАпостолов.dll
+D:\Programing\PMPG\ГеоргиАпостолов\ГеоргиАпостолов\bin\Debug\netcoreapp3.1\ГеоргиАпостолов.pdb
+D:\Programing\PMPG\ГеоргиАпостолов\ГеоргиАпостолов\obj\Debug\netcoreapp3.1\ГеоргиАпостолов.csprojAssemblyReference.cache
+D:\Programing\PMPG\ГеоргиАпостолов\ГеоргиАпостолов\obj\Debug\netcoreapp3.1\ГеоргиАпостолов.AssemblyInfoInputs.cache
+D:\Programing\PMPG\ГеоргиАпостолов\ГеоргиАпостолов\obj\Debug\netcoreapp3.1\ГеоргиАпостолов.AssemblyInfo.cs
+D:\Programing\PMPG\ГеоргиАпостолов\ГеоргиАпостолов\obj\Debug\netcoreapp3.1\ГеоргиАпостолов.csproj.CoreCompileInputs.cache
+D:\Programing\PMPG\ГеоргиАпостолов\ГеоргиАпостолов\obj\Debug\netcoreapp3.1\ГеоргиАпостолов.dll
+D:\Programing\PMPG\ГеоргиАпостолов\ГеоргиАпостолов\obj\Debug\netcoreapp3.1\ГеоргиАпостолов.pdb
+D:\Programing\PMPG\ГеоргиАпостолов\ГеоргиАпостолов\obj\Debug\netcoreapp3.1\ГеоргиАпостолов.genruntimeconfig.cache

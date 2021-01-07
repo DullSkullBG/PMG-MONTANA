@@ -1,0 +1,26 @@
+C:\Users\georgi apostolov\source\repos\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\bin\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.exe
+C:\Users\georgi apostolov\source\repos\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\bin\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.deps.json
+C:\Users\georgi apostolov\source\repos\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\bin\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.runtimeconfig.json
+C:\Users\georgi apostolov\source\repos\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\bin\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.runtimeconfig.dev.json
+C:\Users\georgi apostolov\source\repos\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\bin\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.dll
+C:\Users\georgi apostolov\source\repos\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\bin\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.pdb
+C:\Users\georgi apostolov\source\repos\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\obj\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.csprojAssemblyReference.cache
+C:\Users\georgi apostolov\source\repos\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\obj\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.AssemblyInfoInputs.cache
+C:\Users\georgi apostolov\source\repos\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\obj\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.AssemblyInfo.cs
+C:\Users\georgi apostolov\source\repos\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\obj\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.csproj.CoreCompileInputs.cache
+C:\Users\georgi apostolov\source\repos\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\obj\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.dll
+C:\Users\georgi apostolov\source\repos\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\obj\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.pdb
+C:\Users\georgi apostolov\source\repos\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\obj\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.genruntimeconfig.cache
+D:\Programing\PMPG\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\bin\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.exe
+D:\Programing\PMPG\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\bin\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.deps.json
+D:\Programing\PMPG\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\bin\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.runtimeconfig.json
+D:\Programing\PMPG\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\bin\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.runtimeconfig.dev.json
+D:\Programing\PMPG\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\bin\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.dll
+D:\Programing\PMPG\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\bin\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.pdb
+D:\Programing\PMPG\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\obj\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.csprojAssemblyReference.cache
+D:\Programing\PMPG\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\obj\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.AssemblyInfoInputs.cache
+D:\Programing\PMPG\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\obj\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.AssemblyInfo.cs
+D:\Programing\PMPG\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\obj\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.csproj.CoreCompileInputs.cache
+D:\Programing\PMPG\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\obj\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.dll
+D:\Programing\PMPG\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\obj\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.pdb
+D:\Programing\PMPG\Chetni_GeorgiApostolov\Chetni_GeorgiApostolov\obj\Debug\netcoreapp3.1\Chetni_GeorgiApostolov.genruntimeconfig.cache

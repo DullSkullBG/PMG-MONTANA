@@ -1,0 +1,13 @@
+D:\programing\PMPG\test\test\bin\Debug\netcoreapp3.1\test.exe
+D:\programing\PMPG\test\test\bin\Debug\netcoreapp3.1\test.deps.json
+D:\programing\PMPG\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+D:\programing\PMPG\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+D:\programing\PMPG\test\test\bin\Debug\netcoreapp3.1\test.dll
+D:\programing\PMPG\test\test\bin\Debug\netcoreapp3.1\test.pdb
+D:\programing\PMPG\test\test\obj\Debug\netcoreapp3.1\test.csprojAssemblyReference.cache
+D:\programing\PMPG\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+D:\programing\PMPG\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+D:\programing\PMPG\test\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+D:\programing\PMPG\test\test\obj\Debug\netcoreapp3.1\test.dll
+D:\programing\PMPG\test\test\obj\Debug\netcoreapp3.1\test.pdb
+D:\programing\PMPG\test\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache

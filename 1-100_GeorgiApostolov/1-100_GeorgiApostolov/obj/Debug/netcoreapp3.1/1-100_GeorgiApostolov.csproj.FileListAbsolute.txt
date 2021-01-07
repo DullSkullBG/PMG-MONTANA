@@ -1,0 +1,12 @@
+D:\Programing\PMPG\1-100_GeorgiApostolov\1-100_GeorgiApostolov\bin\Debug\netcoreapp3.1\1-100_GeorgiApostolov.exe
+D:\Programing\PMPG\1-100_GeorgiApostolov\1-100_GeorgiApostolov\bin\Debug\netcoreapp3.1\1-100_GeorgiApostolov.deps.json
+D:\Programing\PMPG\1-100_GeorgiApostolov\1-100_GeorgiApostolov\bin\Debug\netcoreapp3.1\1-100_GeorgiApostolov.runtimeconfig.json
+D:\Programing\PMPG\1-100_GeorgiApostolov\1-100_GeorgiApostolov\bin\Debug\netcoreapp3.1\1-100_GeorgiApostolov.runtimeconfig.dev.json
+D:\Programing\PMPG\1-100_GeorgiApostolov\1-100_GeorgiApostolov\bin\Debug\netcoreapp3.1\1-100_GeorgiApostolov.dll
+D:\Programing\PMPG\1-100_GeorgiApostolov\1-100_GeorgiApostolov\bin\Debug\netcoreapp3.1\1-100_GeorgiApostolov.pdb
+D:\Programing\PMPG\1-100_GeorgiApostolov\1-100_GeorgiApostolov\obj\Debug\netcoreapp3.1\1-100_GeorgiApostolov.AssemblyInfoInputs.cache
+D:\Programing\PMPG\1-100_GeorgiApostolov\1-100_GeorgiApostolov\obj\Debug\netcoreapp3.1\1-100_GeorgiApostolov.AssemblyInfo.cs
+D:\Programing\PMPG\1-100_GeorgiApostolov\1-100_GeorgiApostolov\obj\Debug\netcoreapp3.1\1-100_GeorgiApostolov.csproj.CoreCompileInputs.cache
+D:\Programing\PMPG\1-100_GeorgiApostolov\1-100_GeorgiApostolov\obj\Debug\netcoreapp3.1\1-100_GeorgiApostolov.dll
+D:\Programing\PMPG\1-100_GeorgiApostolov\1-100_GeorgiApostolov\obj\Debug\netcoreapp3.1\1-100_GeorgiApostolov.pdb
+D:\Programing\PMPG\1-100_GeorgiApostolov\1-100_GeorgiApostolov\obj\Debug\netcoreapp3.1\1-100_GeorgiApostolov.genruntimeconfig.cache

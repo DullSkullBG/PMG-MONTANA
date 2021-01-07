@@ -1,0 +1,13 @@
+D:\programing\PMPG\HappyBirthday\HappyBirthday\bin\Debug\netcoreapp3.1\HappyBirthday.exe
+D:\programing\PMPG\HappyBirthday\HappyBirthday\bin\Debug\netcoreapp3.1\HappyBirthday.deps.json
+D:\programing\PMPG\HappyBirthday\HappyBirthday\bin\Debug\netcoreapp3.1\HappyBirthday.runtimeconfig.json
+D:\programing\PMPG\HappyBirthday\HappyBirthday\bin\Debug\netcoreapp3.1\HappyBirthday.runtimeconfig.dev.json
+D:\programing\PMPG\HappyBirthday\HappyBirthday\bin\Debug\netcoreapp3.1\HappyBirthday.dll
+D:\programing\PMPG\HappyBirthday\HappyBirthday\bin\Debug\netcoreapp3.1\HappyBirthday.pdb
+D:\programing\PMPG\HappyBirthday\HappyBirthday\obj\Debug\netcoreapp3.1\HappyBirthday.csprojAssemblyReference.cache
+D:\programing\PMPG\HappyBirthday\HappyBirthday\obj\Debug\netcoreapp3.1\HappyBirthday.AssemblyInfoInputs.cache
+D:\programing\PMPG\HappyBirthday\HappyBirthday\obj\Debug\netcoreapp3.1\HappyBirthday.AssemblyInfo.cs
+D:\programing\PMPG\HappyBirthday\HappyBirthday\obj\Debug\netcoreapp3.1\HappyBirthday.csproj.CoreCompileInputs.cache
+D:\programing\PMPG\HappyBirthday\HappyBirthday\obj\Debug\netcoreapp3.1\HappyBirthday.dll
+D:\programing\PMPG\HappyBirthday\HappyBirthday\obj\Debug\netcoreapp3.1\HappyBirthday.pdb
+D:\programing\PMPG\HappyBirthday\HappyBirthday\obj\Debug\netcoreapp3.1\HappyBirthday.genruntimeconfig.cache
